@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/malba231180/ttiedsi#readme",
   "publishConfig": {
-   "@malba231180:registry": "https://npm.pkg.github.com/malba231180/ttiedsi"
+   "@malba231180:registry": "https://npm.pkg.github.com/malba231180"
   }
 }
