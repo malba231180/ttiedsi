@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/malba231180/ttiedsi/issues"
   },
-  "homepage": "https://github.com/malba231180/ttiedsi#readme"
+  "homepage": "https://github.com/malba231180/ttiedsi#readme",
+  "publishConfig": {
+   "@malba231180:registry": "https://npm.pkg.github.com"
+  }
 }
