@@ -1,5 +1,5 @@
 {
-  "name": "@malba231180/ttiedsi",
+  "name": "ttiedsi",
   "version": "1.0.0",
   "description": "tti edsi",
   "main": "index.js",
@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/malba231180/ttiedsi#readme",
   "publishConfig": {
-   "@malba231180:registry": "https://npm.pkg.github.com/malba231180"
+   "@malba231180:registry": "https://npm.pkg.github.com"
+  },
+  "packages": {
+    "": {
+      "name": "@malba231180/ttiedsi",
+      "version": "1.0.0",
+      "license": "ISC"
+    }
   }
 }
