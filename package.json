@@ -1,0 +1,19 @@
+{
+  "name": "@malba231180/ttiedsi",
+  "version": "1.0.0",
+  "description": "tti edsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://malba231180@github.com/malba231180/ttiedsi.git"
+  },
+  "author": "Tti groups",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malba231180/ttiedsi/issues"
+  },
+  "homepage": "https://github.com/malba231180/ttiedsi#readme"
+}
